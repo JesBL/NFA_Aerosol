@@ -2,13 +2,10 @@
 """
 Created on Tue Feb 14 14:54:00 2023
 
-@author: B279683
+@author: B351796
 """
 
 import numpy as np
-# import datetime as datetime
-# import matplotlib.pyplot as plt
-# import pandas as pd
 from scipy.optimize import curve_fit
 from matplotlib.dates import date2num, num2date
 
